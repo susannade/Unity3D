@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Coin
+  - Star
+  - Enemy
+  - Wall
+  - Cat
   layers:
   - Default
   - TransparentFX
