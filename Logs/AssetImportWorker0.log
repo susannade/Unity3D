@@ -1,66 +1,75 @@
 Using pre-set license
 Built from 'trunk' branch; Version is '2020.2.0a18 (4f8709444da6) revision 5211913'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'pl' Physical Memory: 8066 MB
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'pl' Physical Memory: 8074 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.0a18\Editor\Unity.exe
+Z:\Progs\unity\2020.2.0a18\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Jasiu/Dokumenty/studia/semestr 6/projekt/Unity3D
+Z:/docs/graproj2/Unity3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50431
-Successfully changed project path to: D:/Jasiu/Dokumenty/studia/semestr 6/projekt/Unity3D
-D:/Jasiu/Dokumenty/studia/semestr 6/projekt/Unity3D
+57829
+Successfully changed project path to: Z:/docs/graproj2/Unity3D
+Z:/docs/graproj2/Unity3D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 92.13 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 155.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0a18 (4f8709444da6)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Jasiu/Dokumenty/studia/semestr 6/projekt/Unity3D/Assets
+[Subsystems] Discovering subsystems at path Z:/Progs/unity/2020.2.0a18/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path Z:/docs/graproj2/Unity3D/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
     Vendor:   
-    VRAM:     1983 MB
-    Driver:   26.21.14.3630
+    VRAM:     4019 MB
+    Driver:   27.21.14.5206
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Mono path[0] = 'Z:/Progs/unity/2020.2.0a18/Editor/Data/Managed'
+Mono path[1] = 'Z:/Progs/unity/2020.2.0a18/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'Z:/Progs/unity/2020.2.0a18/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008476 seconds.
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.094192 seconds.
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.72 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.14 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.799 seconds
+- Completed reload, in 18.199 seconds
 Registering precompiled user dll's ...
-Registered in 0.365468 seconds.
+Registered in 0.389664 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.569 seconds
+- Completed reload, in  0.880 seconds
 Platform modules already initialized, skipping
 Script is not up to date after domain reload: guid(01df650e1b86e9f4a8e2b5dc9782506f) path("Packages/com.unity.ugui/Tests/Runtime/NestedLayout/SceneWithNestedLayoutElementsLoads.cs") state(2)
 Script is not up to date after domain reload: guid(5503f95d174761548a68a901beab13c2) path("Packages/com.unity.timeline/Editor/Window/Modes/TimelineInactiveMode.cs") state(2)
@@ -2226,345 +2235,1653 @@ Script is not up to date after domain reload: guid(dd2fe74169b54bf58fca17288513e
 Script is not up to date after domain reload: guid(bea62e1faac8f9a48a4cb919ea05cb6a) path("Packages/com.unity.timeline/Editor/treeview/Drawers/Layers/MarkersLayer.cs") state(2)
 Script is not up to date after domain reload: guid(9f48b2bb8da58264985e72257811c8fd) path("Packages/com.unity.collab-proxy/Editor/Views/IMainView.cs") state(2)
 Script is not up to date after domain reload: guid(02893ffb522b490a9fa28eedd2584309) path("Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs") state(2)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.37 seconds
-Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 27.3 MB.
-System memory in use after: 27.3 MB.
+System memory in use before: 27.4 MB.
+System memory in use after: 27.4 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 452.
-Total: 2.775300 ms (FindLiveObjects: 0.313500 ms CreateObjectMapping: 0.012600 ms MarkObjects: 2.274800 ms  DeleteObjects: 0.173200 ms)
+Total: 2.647100 ms (FindLiveObjects: 0.422300 ms CreateObjectMapping: 0.009400 ms MarkObjects: 2.109700 ms  DeleteObjects: 0.104500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/RPG Pack/Prefabs/Coin.prefab
-  artifactKey: Guid(5142a683d65bbf84abea6f07db9099c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG Pack/Prefabs/Coin.prefab using Guid(5142a683d65bbf84abea6f07db9099c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9d6ddd0bfc8a18391d5f31fc125da2') in 0.664361 seconds
-  Import took 0.717638 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.20 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 31.0 MB.
-System memory in use after: 31.0 MB.
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 459.
-Total: 5.074700 ms (FindLiveObjects: 0.281800 ms CreateObjectMapping: 0.008200 ms MarkObjects: 4.669300 ms  DeleteObjects: 0.113900 ms)
+  path: Assets/YughuesFreeBushes2018
+  artifactKey: Guid(cbe95c3e6856af34da689b2955ff15d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YughuesFreeBushes2018 using Guid(cbe95c3e6856af34da689b2955ff15d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf10cbac51d0846dc3a408ce990d32d') in 0.040889 seconds
+  Import took 0.062783 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 31.687446 seconds.
-  path: Assets/RPG Pack/Prefabs/Coin.prefab
-  artifactKey: Guid(5142a683d65bbf84abea6f07db9099c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG Pack/Prefabs/Coin.prefab using Guid(5142a683d65bbf84abea6f07db9099c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769c8e20f38cf59a05e051b1389a4f32') in 0.049899 seconds
-  Import took 0.070266 seconds .
+  Time since last request: 0.002303 seconds.
+  path: Assets/Ground textures pack
+  artifactKey: Guid(67d7e55a4f2d3ef4bb99c13f48f5341e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground textures pack using Guid(67d7e55a4f2d3ef4bb99c13f48f5341e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e83d80e6195cf6c73e897db27b9ead') in 0.006524 seconds
+  Import took 0.012068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/AurynSky
+  artifactKey: Guid(3f20e6b5ceaf859479f631c3f3eff4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky using Guid(3f20e6b5ceaf859479f631c3f3eff4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205e8780c26a4da6500bba74eb6bf5a8') in 0.003876 seconds
+  Import took 0.038297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/RPG Pack
+  artifactKey: Guid(4c6fd5c74106c1041bcb48c0d418e15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Pack using Guid(4c6fd5c74106c1041bcb48c0d418e15d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2678d3d4339658416e72eaebc983a2') in 0.002116 seconds
+  Import took 0.020573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/JKT_Art
+  artifactKey: Guid(72fbe6f5041193847b3432b53227b2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art using Guid(72fbe6f5041193847b3432b53227b2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263a2c5155d91c66f2f5b0f26bf47933') in 0.003719 seconds
+  Import took 0.019512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7d692b35e0c3f8d4d9fc5c183b410c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7d692b35e0c3f8d4d9fc5c183b410c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '123961af9fbbd785bf00bff2babf7233') in 0.004121 seconds
+  Import took 0.016976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(01ddcc65c26bc534d8a1c8770d0a26a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(01ddcc65c26bc534d8a1c8770d0a26a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1110fdc4b31b90f655e32f2c47375e4') in 0.004417 seconds
+  Import took 0.006407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000925 seconds.
+  path: Assets/HudTextures
+  artifactKey: Guid(2fe336ce25c078e488fda5245451f3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures using Guid(2fe336ce25c078e488fda5245451f3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c29bb295263bece0d5128b1d50c90ee') in 0.004510 seconds
+  Import took 0.028153 seconds .
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007753 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001940 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 65.93 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.929 seconds
+- Completed reload, in  0.937 seconds
 Registering precompiled user dll's ...
-Registered in 0.387466 seconds.
+Registered in 0.195422 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.765 seconds
+- Completed reload, in  0.774 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1085 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 61.9 MB.
-System memory in use after: 61.9 MB.
+System memory in use before: 57.9 MB.
+System memory in use after: 58.0 MB.
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1544.
-Total: 3.264400 ms (FindLiveObjects: 0.546500 ms CreateObjectMapping: 0.105900 ms MarkObjects: 2.487800 ms  DeleteObjects: 0.122300 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006818 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 64.22 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.302 seconds
-Registering precompiled user dll's ...
-Registered in 0.399673 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.984 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.7 MB.
-System memory in use after: 40.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1548.
-Total: 3.505900 ms (FindLiveObjects: 0.508100 ms CreateObjectMapping: 0.100000 ms MarkObjects: 2.723100 ms  DeleteObjects: 0.172900 ms)
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007932 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 61.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.020 seconds
-Registering precompiled user dll's ...
-Registered in 0.375472 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.220 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.7 MB.
-System memory in use after: 40.8 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1552.
-Total: 3.557600 ms (FindLiveObjects: 0.564800 ms CreateObjectMapping: 0.098700 ms MarkObjects: 2.760600 ms  DeleteObjects: 0.131200 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1537.
+Total: 1.926100 ms (FindLiveObjects: 0.404500 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.383500 ms  DeleteObjects: 0.083500 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1544.258333 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dee3a966dc798603847cf626bff1d6a') in 0.066491 seconds
-  Import took 0.170060 seconds .
+  Time since last request: 638.605932 seconds.
+  path: Assets/Scripts/EnemyMovement.cs
+  artifactKey: Guid(7f93d8ad433413a4386dc07def69bb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyMovement.cs using Guid(7f93d8ad433413a4386dc07def69bb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5647f7b45b90ae17252b65728646d69') in 0.071467 seconds
+  Import took 0.074886 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 126.300582 seconds.
+  Time since last request: 0.013217 seconds.
   path: Assets/Scripts/PlayerContoller.cs
   artifactKey: Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerContoller.cs using Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0309a79b8f661ee3aa365bfb71bbaa9') in 0.025896 seconds
-  Import took 0.241402 seconds .
-
-========================================================================
-Received Prepare
-Reloading mono domain
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007423 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 66.62 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.402 seconds
-Registering precompiled user dll's ...
-Registered in 0.395132 seconds.
-Platform modules already initialized, skipping
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.460 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.7 MB.
-System memory in use after: 40.7 MB.
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1556.
-Total: 4.621900 ms (FindLiveObjects: 1.585000 ms CreateObjectMapping: 0.149600 ms MarkObjects: 2.761400 ms  DeleteObjects: 0.123600 ms)
+Start importing Assets/Scripts/PlayerContoller.cs using Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbcc5a1572ee594e7a279014685b792') in 0.005619 seconds
+  Import took 0.010155 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 69.015326 seconds.
-  path: Assets/Scripts/PlayerContoller.cs
-  artifactKey: Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerContoller.cs using Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358c76824090b5d00d14902ad31fb545') in 0.016644 seconds
-  Import took 0.085485 seconds .
+  Time since last request: 0.000062 seconds.
+  path: Assets/Scripts/ThirdPersonCameraController.cs
+  artifactKey: Guid(a3f96916fb6d45f4a918726d62dba5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ThirdPersonCameraController.cs using Guid(a3f96916fb6d45f4a918726d62dba5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '435e540f8b09cd4d1227949b5e56185d') in 0.009407 seconds
+  Import took 0.015158 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.928222 seconds.
-  path: Assets/Scripts/PlayerContoller.cs
-  artifactKey: Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerContoller.cs using Guid(980ad74443f70ec40b162155624dc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358c76824090b5d00d14902ad31fb545') in 0.017637 seconds
-  Import took 0.065898 seconds .
+  Time since last request: 0.000202 seconds.
+  path: Assets/Scripts/ThirdPersonCharacterController.cs
+  artifactKey: Guid(4469cbd393f3b7b498a0d51be412cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ThirdPersonCharacterController.cs using Guid(4469cbd393f3b7b498a0d51be412cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a484eb00bf460db677f0983ebe85e318') in 0.003277 seconds
+  Import took 0.009515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.050493 seconds.
+  path: Assets/Scripts/xxx.cs
+  artifactKey: Guid(6c89ad70d68f1824c92a3c497d10d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/xxx.cs using Guid(6c89ad70d68f1824c92a3c497d10d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b762f4f41e81c910cc0ccc092cf3329') in 0.010463 seconds
+  Import took 0.016640 seconds .
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007132 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002358 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 76.02 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.522 seconds
+- Completed reload, in  1.206 seconds
 Registering precompiled user dll's ...
-Registered in 0.390259 seconds.
+Registered in 0.080850 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.486 seconds
+- Completed reload, in  0.855 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.7 MB.
-System memory in use after: 40.8 MB.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 37.7 MB.
+System memory in use after: 37.8 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1560.
-Total: 3.199800 ms (FindLiveObjects: 0.474800 ms CreateObjectMapping: 0.087700 ms MarkObjects: 2.513400 ms  DeleteObjects: 0.122000 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1542.
+Total: 1.586000 ms (FindLiveObjects: 0.333200 ms CreateObjectMapping: 0.048600 ms MarkObjects: 1.135800 ms  DeleteObjects: 0.067800 ms)
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007406 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002016 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 80.62 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 55.83 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.727 seconds
+- Completed reload, in  1.141 seconds
 Registering precompiled user dll's ...
-Registered in 0.415793 seconds.
+Registered in 0.186112 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.745 seconds
+- Completed reload, in  1.040 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.7 MB.
-System memory in use after: 40.8 MB.
+System memory in use before: 37.7 MB.
+System memory in use after: 37.8 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
-Total: 2.866300 ms (FindLiveObjects: 0.477300 ms CreateObjectMapping: 0.082000 ms MarkObjects: 2.200600 ms  DeleteObjects: 0.104500 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1546.
+Total: 3.284000 ms (FindLiveObjects: 0.519300 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.476600 ms  DeleteObjects: 0.202500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 900.932495 seconds.
+  path: Assets/Scripts/xxx.cs
+  artifactKey: Guid(6c89ad70d68f1824c92a3c497d10d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/xxx.cs using Guid(6c89ad70d68f1824c92a3c497d10d6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b624ab43cdd92aea1e3cc0568ac1009') in 0.004589 seconds
+  Import took 0.008296 seconds .
 
 ========================================================================
 Received Prepare
 Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007273 seconds.
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001969 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 62.17 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.704 seconds
+- Completed reload, in  0.984 seconds
 Registering precompiled user dll's ...
-Registered in 0.400410 seconds.
+Registered in 0.066685 seconds.
 Platform modules already initialized, skipping
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Jasiu\Dokumenty\studia\semestr 6\projekt\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.701 seconds
+- Completed reload, in  0.883 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 40.6 MB.
-System memory in use after: 40.7 MB.
+System memory in use before: 37.7 MB.
+System memory in use after: 37.8 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1568.
-Total: 3.260500 ms (FindLiveObjects: 0.525200 ms CreateObjectMapping: 0.085900 ms MarkObjects: 2.536900 ms  DeleteObjects: 0.111400 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 6.296100 ms (FindLiveObjects: 1.765900 ms CreateObjectMapping: 0.125200 ms MarkObjects: 3.741600 ms  DeleteObjects: 0.661800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.717359 seconds.
+  path: Assets/HudTextures/star.png
+  artifactKey: Guid(437026fd9f1a16b49bdcc339b91f7d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures/star.png using Guid(437026fd9f1a16b49bdcc339b91f7d15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4331d26379fb94219aaa42de7425ff') in 1.007522 seconds
+  Import took 1.026352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/JKT_Art/UI/ICON/x.png
+  artifactKey: Guid(632c45048af3cff41a21bce8f8bb9867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/x.png using Guid(632c45048af3cff41a21bce8f8bb9867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec52542e95f489d8546b09d3daa04e5e') in 0.133663 seconds
+  Import took 0.157949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002368 seconds.
+  path: Assets/JKT_Art/UI/FONT/unlock.png
+  artifactKey: Guid(ace3c4673c3a13841bf44041a950cb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/unlock.png using Guid(ace3c4673c3a13841bf44041a950cb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1e1bf337917b5f059a1f3aeb0d8e03') in 0.093825 seconds
+  Import took 0.098427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.899511 seconds.
+  path: Assets/JKT_Art/UI/FONT/stage_1.png
+  artifactKey: Guid(e592a89ba8cedc84e97be49be2491b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/stage_1.png using Guid(e592a89ba8cedc84e97be49be2491b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0920bcc654b457982f44d88112cf7a7a') in 0.143363 seconds
+  Import took 0.151328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/JKT_Art/UI/FONT/stage_2.png
+  artifactKey: Guid(72be7219b96ca314dadcaa14d42249d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/stage_2.png using Guid(72be7219b96ca314dadcaa14d42249d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28650fa255e5a023c7e9e9c55dc37b36') in 0.188129 seconds
+  Import took 0.193120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104780 seconds.
+  path: Assets/JKT_Art/UI/FONT/share.png
+  artifactKey: Guid(5477d79fed637ed4888ba2dd6aeabe6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/share.png using Guid(5477d79fed637ed4888ba2dd6aeabe6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3260f822bd8102819f37e6327e4b4d15') in 0.099208 seconds
+  Import took 0.104001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/JKT_Art/UI/Character/sheep_icon.png
+  artifactKey: Guid(0bd2ee4293bb6934f93f75052784b75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/sheep_icon.png using Guid(0bd2ee4293bb6934f93f75052784b75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9778e4c81b20e74491678f9538c9bee') in 0.203023 seconds
+  Import took 0.216710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/JKT_Art/UI/FONT/select_1.png
+  artifactKey: Guid(9a993d7467659854f9894370322728da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/select_1.png using Guid(9a993d7467659854f9894370322728da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4cfef939587b5ebb24364e45386767') in 0.090590 seconds
+  Import took 0.097842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000721 seconds.
+  path: Assets/JKT_Art/UI/FONT/select_2.png
+  artifactKey: Guid(eebd79cda464f844db04978e3abae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/select_2.png using Guid(eebd79cda464f844db04978e3abae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9476f632427b94ddc8dbe669ad5e1e4b') in 0.049686 seconds
+  Import took 0.069198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001489 seconds.
+  path: Assets/JKT_Art/UI/FONT/select_1.png
+  artifactKey: Guid(9a993d7467659854f9894370322728da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/select_1.png using Guid(9a993d7467659854f9894370322728da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4cfef939587b5ebb24364e45386767') in 0.045724 seconds
+  Import took 0.059477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/JKT_Art/UI/FONT/select_2.png
+  artifactKey: Guid(eebd79cda464f844db04978e3abae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/select_2.png using Guid(eebd79cda464f844db04978e3abae7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9476f632427b94ddc8dbe669ad5e1e4b') in 0.098352 seconds
+  Import took 0.104406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/JKT_Art/UI/FONT/remove_ads.png
+  artifactKey: Guid(cadc48964cf15964496b831cb9609347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/remove_ads.png using Guid(cadc48964cf15964496b831cb9609347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd7b0278331d74823d568cc1bcf535c') in 0.100512 seconds
+  Import took 0.105890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/JKT_Art/UI/ICON/return.png
+  artifactKey: Guid(e11e08d862a9ac34991b14dc6a16a0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/return.png using Guid(e11e08d862a9ac34991b14dc6a16a0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1f6f85ab67992c52d739f0a0042444') in 0.083446 seconds
+  Import took 0.098826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.403774 seconds.
+  path: Assets/JKT_Art/UI/Arrow/popup_3.png
+  artifactKey: Guid(8a0e05617bcede04d9e26dd3b1e166da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/popup_3.png using Guid(8a0e05617bcede04d9e26dd3b1e166da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae29bc1d344f6fbc9b183737817c9276') in 0.141561 seconds
+  Import took 0.147376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/JKT_Art/UI/FONT/ready.png
+  artifactKey: Guid(fb301f6db0bd0a341b9697b91836c06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/ready.png using Guid(fb301f6db0bd0a341b9697b91836c06c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6243ced6ca1ad5bf1ed4b8d616d0b2ff') in 0.116812 seconds
+  Import took 0.138687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107439 seconds.
+  path: Assets/JKT_Art/UI/Arrow/popup_1.png
+  artifactKey: Guid(5740f0213c489dc43a5b919c31a37059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/popup_1.png using Guid(5740f0213c489dc43a5b919c31a37059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90bf4cfa44732626bb43b7a7c8085a36') in 0.106753 seconds
+  Import took 0.112324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/JKT_Art/UI/Character/peng_icon.png
+  artifactKey: Guid(d794da955cc5c0b4a91f450cc0b6aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/peng_icon.png using Guid(d794da955cc5c0b4a91f450cc0b6aa66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70697d6738ec7e96e91aecfbe07333e5') in 0.100419 seconds
+  Import took 0.104926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/JKT_Art/UI/Arrow/popup_2.png
+  artifactKey: Guid(31a8fa7f1089d8e4d9367a7b72fd542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/popup_2.png using Guid(31a8fa7f1089d8e4d9367a7b72fd542c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56a2c74d937b54d9dfe5094a4b2c7fa') in 0.101351 seconds
+  Import took 0.104342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/JKT_Art/UI/ICON/option.png
+  artifactKey: Guid(01edceda9dffa484ca429b4c250fbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/option.png using Guid(01edceda9dffa484ca429b4c250fbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da34b99827147c7f7c3374857d9742a') in 0.106797 seconds
+  Import took 0.114500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109970 seconds.
+  path: Assets/JKT_Art/UI/Number/number8.png
+  artifactKey: Guid(58a5725ac28fcae40b0e58afc06ebd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number8.png using Guid(58a5725ac28fcae40b0e58afc06ebd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346fc2b5f906c39f1743e2f1adeed267') in 0.040458 seconds
+  Import took 0.045720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/JKT_Art/UI/Number/number9.png
+  artifactKey: Guid(4954823d537876b449b5e7a15fb0ad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number9.png using Guid(4954823d537876b449b5e7a15fb0ad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c612aca884f2ef6576c67e81c9850dc') in 0.062925 seconds
+  Import took 0.148805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088797 seconds.
+  path: Assets/JKT_Art/UI/Number/number6.png
+  artifactKey: Guid(dae4ef1bff9cee341a4853011e3bb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number6.png using Guid(dae4ef1bff9cee341a4853011e3bb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a486032b9759b10da49dc61d946e0f48') in 0.050313 seconds
+  Import took 0.054761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/JKT_Art/UI/Number/number7.png
+  artifactKey: Guid(dd1e74eb550ae6b44892ce5f8ef47fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number7.png using Guid(dd1e74eb550ae6b44892ce5f8ef47fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b08db8b38c8d320ffa7475b3712224') in 0.102230 seconds
+  Import took 0.105030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014531 seconds.
+  path: Assets/JKT_Art/UI/Number/number7.png
+  artifactKey: Guid(dd1e74eb550ae6b44892ce5f8ef47fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number7.png using Guid(dd1e74eb550ae6b44892ce5f8ef47fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b08db8b38c8d320ffa7475b3712224') in 0.092554 seconds
+  Import took 0.110853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/JKT_Art/UI/Number/number5.png
+  artifactKey: Guid(045d7df6b6ece73459c612be67611149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number5.png using Guid(045d7df6b6ece73459c612be67611149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030ee2a979444c2aa0048a1368938d26') in 0.086876 seconds
+  Import took 0.096041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001741 seconds.
+  path: Assets/JKT_Art/UI/Number/number4.png
+  artifactKey: Guid(eb8ab62f6f9d70f44b08c52743e731f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number4.png using Guid(eb8ab62f6f9d70f44b08c52743e731f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf17f859a3407c741994fa7ddb9fa278') in 0.048507 seconds
+  Import took 0.056445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/JKT_Art/UI/Number/number2.png
+  artifactKey: Guid(2ab1e7feb14d9f640a3f616acaab5319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number2.png using Guid(2ab1e7feb14d9f640a3f616acaab5319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e579156da95d50ef1ad951eb120091') in 0.085173 seconds
+  Import took 0.093317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/JKT_Art/UI/Number/number3.png
+  artifactKey: Guid(3bfbf282a6f85ab408280fdacaf6dc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number3.png using Guid(3bfbf282a6f85ab408280fdacaf6dc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8273c48e88baba600caf9f3447ce1541') in 0.069312 seconds
+  Import took 0.074915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073931 seconds.
+  path: Assets/JKT_Art/UI/Number/number0.png
+  artifactKey: Guid(74da71e173b9a0f4f8a8c21270c36377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number0.png using Guid(74da71e173b9a0f4f8a8c21270c36377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701105be2251e3850fcec67f8e8be66d') in 0.027219 seconds
+  Import took 0.032545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001140 seconds.
+  path: Assets/JKT_Art/UI/Number/number1.png
+  artifactKey: Guid(e3f3f15f43cf52243a5dbe3b3052834a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Number/number1.png using Guid(e3f3f15f43cf52243a5dbe3b3052834a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b506fc2011e510ee906e0eec50a0cb45') in 0.045733 seconds
+  Import took 0.050741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136640 seconds.
+  path: Assets/JKT_Art/UI/ICON/music.png
+  artifactKey: Guid(7bd54938d199db544b8e3ac7112b3148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/music.png using Guid(7bd54938d199db544b8e3ac7112b3148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bc28a8b239cf2ceaf76942c0bff688') in 0.023446 seconds
+  Import took 0.029275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/JKT_Art/UI/FONT/next.png
+  artifactKey: Guid(f00a65a190c8d894181411ae5407a330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/next.png using Guid(f00a65a190c8d894181411ae5407a330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734573816b83e36db927476dfbe8ebbd') in 0.096407 seconds
+  Import took 0.099483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/HudTextures/mid.png
+  artifactKey: Guid(37fe8551154905a48ab30fa8b7b93fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures/mid.png using Guid(37fe8551154905a48ab30fa8b7b93fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d88b4c17f5419758f433b763317a1cd') in 0.081074 seconds
+  Import took 0.084512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/JKT_Art/UI/FONT/move.png
+  artifactKey: Guid(45c5ea5a49c7ea3428215a832daa0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/move.png using Guid(45c5ea5a49c7ea3428215a832daa0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765227d7ce5f047ec825bc0e887028c3') in 0.060749 seconds
+  Import took 0.064856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000825 seconds.
+  path: Assets/JKT_Art/UI/FONT/move.png
+  artifactKey: Guid(45c5ea5a49c7ea3428215a832daa0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/move.png using Guid(45c5ea5a49c7ea3428215a832daa0dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765227d7ce5f047ec825bc0e887028c3') in 0.021238 seconds
+  Import took 0.028712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.207715 seconds.
+  path: Assets/JKT_Art/UI/FONT/map.png
+  artifactKey: Guid(b58f931946f0e724094723c4e35c5e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/map.png using Guid(b58f931946f0e724094723c4e35c5e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07fb26c43ebf02581524f224b98dc8c') in 0.037602 seconds
+  Import took 0.043791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/JKT_Art/UI/ICON/map.png
+  artifactKey: Guid(9ceee2b8912127d419ed7a8660e7fc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/map.png using Guid(9ceee2b8912127d419ed7a8660e7fc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80d6ee223c84371f105fa894cfe40da') in 0.109155 seconds
+  Import took 0.113230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/HudTextures/low.png
+  artifactKey: Guid(ec9c19e96a0466f49b4eea0a97cc1ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures/low.png using Guid(ec9c19e96a0466f49b4eea0a97cc1ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2adbedca6b1495714424527652672eb6') in 0.076846 seconds
+  Import took 0.081077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding10.png
+  artifactKey: Guid(d129168c603cb7e4d995de5e74e9aabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding10.png using Guid(d129168c603cb7e4d995de5e74e9aabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06678d6ca43d6bbb6e76a5e3ba59e51') in 0.121809 seconds
+  Import took 0.129249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding09.png
+  artifactKey: Guid(d32a71cd30b917248bd9b512bd63234a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding09.png using Guid(d32a71cd30b917248bd9b512bd63234a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7ad11d82ff7d86b284d21d53c3cfc1') in 0.052421 seconds
+  Import took 0.057707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001115 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding08.png
+  artifactKey: Guid(fcb57dccc942cbf488f38ae4b1a72607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding08.png using Guid(fcb57dccc942cbf488f38ae4b1a72607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc372d97911105fe97a6606c1c7f8fc') in 0.056595 seconds
+  Import took 0.065055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding08.png
+  artifactKey: Guid(fcb57dccc942cbf488f38ae4b1a72607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding08.png using Guid(fcb57dccc942cbf488f38ae4b1a72607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc372d97911105fe97a6606c1c7f8fc') in 0.054675 seconds
+  Import took 0.065366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.410505 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding06.png
+  artifactKey: Guid(38ec450df1f7a3e43a9bf02b9703e743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding06.png using Guid(38ec450df1f7a3e43a9bf02b9703e743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833d58b95620d3fc724f2513ad94b17b') in 0.039733 seconds
+  Import took 0.047453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001027 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding07.png
+  artifactKey: Guid(6a89b78e7b571934cb32f38b7fb615a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding07.png using Guid(6a89b78e7b571934cb32f38b7fb615a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5600417a979bf27990055c4b774de2c6') in 0.079036 seconds
+  Import took 0.099115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003319 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding07.png
+  artifactKey: Guid(6a89b78e7b571934cb32f38b7fb615a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding07.png using Guid(6a89b78e7b571934cb32f38b7fb615a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5600417a979bf27990055c4b774de2c6') in 0.045535 seconds
+  Import took 0.055522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.238373 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding04.png
+  artifactKey: Guid(4660d84c6e82e1b4f814eda70d10e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding04.png using Guid(4660d84c6e82e1b4f814eda70d10e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8cbf0472fb81db5d0fd443a5319eb0') in 0.058235 seconds
+  Import took 0.064611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding05.png
+  artifactKey: Guid(40dd1a24ca28caa41bdceb18c954ddb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding05.png using Guid(40dd1a24ca28caa41bdceb18c954ddb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e721e15480c75390870980f51e645a9f') in 0.122287 seconds
+  Import took 0.127745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding02.png
+  artifactKey: Guid(22be84527ddb1374eb9db58a68c133f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding02.png using Guid(22be84527ddb1374eb9db58a68c133f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc6512d529a483d52ed61606ac5f98a') in 0.088953 seconds
+  Import took 0.094262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000839 seconds.
+  path: Assets/JKT_Art/UI/ICON/lock.png
+  artifactKey: Guid(ede9d9e159817b54ea6833d36a429c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/lock.png using Guid(ede9d9e159817b54ea6833d36a429c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658eb3ae0949647bb1a25ebaeb5ad026') in 0.076615 seconds
+  Import took 0.098335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding01.png
+  artifactKey: Guid(04702b20316770941a27286bd421395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding01.png using Guid(04702b20316770941a27286bd421395a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87e4359439987d9047678e4845e571a6') in 0.096131 seconds
+  Import took 0.108337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/JKT_Art/UI/Loding/loding03.png
+  artifactKey: Guid(bdb9773a4d093484d855a4d1bf7e71a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Loding/loding03.png using Guid(bdb9773a4d093484d855a4d1bf7e71a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce659b11ac14785ea08270236e627cf9') in 0.070946 seconds
+  Import took 0.076276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089000 seconds.
+  path: Assets/JKT_Art/UI/FONT/go_2.png
+  artifactKey: Guid(7fcd1a3e4393f7f40b846cda3eec546a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/go_2.png using Guid(7fcd1a3e4393f7f40b846cda3eec546a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc3ef9bc708aa35a6b23604ed858981') in 0.057531 seconds
+  Import took 0.078796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/JKT_Art/UI/ICON/home.png
+  artifactKey: Guid(0b5049cca9b6a1e41a5ed2aa5f5a075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/home.png using Guid(0b5049cca9b6a1e41a5ed2aa5f5a075a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e1077a34cb4614c82541055e2b28d0') in 0.068384 seconds
+  Import took 0.074997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092650 seconds.
+  path: Assets/HudTextures/full.png
+  artifactKey: Guid(7d67576dfcb5894469aaf528ed94fc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures/full.png using Guid(7d67576dfcb5894469aaf528ed94fc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477a182b500cf103bc43a3147f47f954') in 0.063287 seconds
+  Import took 0.068646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003197 seconds.
+  path: Assets/JKT_Art/UI/FONT/go_1.png
+  artifactKey: Guid(b99c290ceb4f8c043a9f99bda85874b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/go_1.png using Guid(b99c290ceb4f8c043a9f99bda85874b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fa37ca2d3f0ac60d0a3758ae57b6b1') in 0.079211 seconds
+  Import took 0.091791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004383 seconds.
+  path: Assets/JKT_Art/UI/FONT/go_1.png
+  artifactKey: Guid(b99c290ceb4f8c043a9f99bda85874b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/go_1.png using Guid(b99c290ceb4f8c043a9f99bda85874b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0fa37ca2d3f0ac60d0a3758ae57b6b1') in 0.056979 seconds
+  Import took 0.069600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072550 seconds.
+  path: Assets/JKT_Art/UI/FONT/fail.png
+  artifactKey: Guid(63c9c0a696085094493c835884b44e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/fail.png using Guid(63c9c0a696085094493c835884b44e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b14875a5551da0ac328a315abb2927f') in 0.025397 seconds
+  Import took 0.029257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000610 seconds.
+  path: Assets/JKT_Art/UI/Arrow/frame_1.psd
+  artifactKey: Guid(a786a0a016a6f8d40a9f20e992463f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/frame_1.psd using Guid(a786a0a016a6f8d40a9f20e992463f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e12f52892f7084776240afb4b1ab7d') in 0.076725 seconds
+  Import took 0.085195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.235581 seconds.
+  path: Assets/JKT_Art/UI/ICON/door.psd
+  artifactKey: Guid(6d3f4971f4c6bf846b432a5b77750dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/door.psd using Guid(6d3f4971f4c6bf846b432a5b77750dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5be5c4d91c6194075cc40d9500913c') in 0.028474 seconds
+  Import took 0.035807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/JKT_Art/UI/Character/duck_icon.png
+  artifactKey: Guid(a44d7e6618020b2489a1a56ccae28478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/duck_icon.png using Guid(a44d7e6618020b2489a1a56ccae28478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc6aa33516fa01a6455d46f99003aa7') in 0.081699 seconds
+  Import took 0.089806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079411 seconds.
+  path: Assets/JKT_Art/UI/FONT/credit.png
+  artifactKey: Guid(2d5c1ca41c05dc24384254252c9d9b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/credit.png using Guid(2d5c1ca41c05dc24384254252c9d9b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a47e3d693cc349476a37bb518df7ab') in 0.032006 seconds
+  Import took 0.038351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/HudTextures/dead.png
+  artifactKey: Guid(28d5e6c0429d03149bc0fedf05aa15d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HudTextures/dead.png using Guid(28d5e6c0429d03149bc0fedf05aa15d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09e67e50c47a06fcc09182cea1bb480b') in 0.073954 seconds
+  Import took 0.083013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057193 seconds.
+  path: Assets/JKT_Art/UI/FONT/clear_1.png
+  artifactKey: Guid(1a33df476b065f148beddb2be1191751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/clear_1.png using Guid(1a33df476b065f148beddb2be1191751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407d97ba2cd9081b98d8928edf0e3030') in 0.042490 seconds
+  Import took 0.048627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/JKT_Art/UI/FONT/clear_2.png
+  artifactKey: Guid(cb14256f254afc142bb005a98f13fcc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/FONT/clear_2.png using Guid(cb14256f254afc142bb005a98f13fcc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8ac57820fd477b6f6e7ea550a9f9ab') in 0.075581 seconds
+  Import took 0.079559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084279 seconds.
+  path: Assets/JKT_Art/UI/ICON/check.psd
+  artifactKey: Guid(e8b9803530797ed448d61067769e6899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/check.psd using Guid(e8b9803530797ed448d61067769e6899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f1c5c99ad8bd53a07a9667b266b7ce') in 0.047204 seconds
+  Import took 0.051879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/JKT_Art/UI/Arrow/circle_1.psd
+  artifactKey: Guid(c1b85ea29e29ca848a3392d9e32a7c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/circle_1.psd using Guid(c1b85ea29e29ca848a3392d9e32a7c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aec163c4bb311c4317c32914f691bc') in 0.100900 seconds
+  Import took 0.103554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.417602 seconds.
+  path: Assets/JKT_Art/UI/Character/cat_icon.psd
+  artifactKey: Guid(0127d178fb95d9f4aa1036b167d3ece2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/cat_icon.psd using Guid(0127d178fb95d9f4aa1036b167d3ece2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e774a05bb69adf14de74376baf1ff45f') in 0.086605 seconds
+  Import took 0.093725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001269 seconds.
+  path: Assets/JKT_Art/UI/Character/charactor_menu.png
+  artifactKey: Guid(d2bec2b24e515724f84ff157eca844ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/charactor_menu.png using Guid(d2bec2b24e515724f84ff157eca844ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe19feef9bd313c26b6341e296dd08a') in 0.116974 seconds
+  Import took 0.121332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007702 seconds.
+  path: Assets/JKT_Art/UI/Character/charactor_menu.png
+  artifactKey: Guid(d2bec2b24e515724f84ff157eca844ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Character/charactor_menu.png using Guid(d2bec2b24e515724f84ff157eca844ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fe19feef9bd313c26b6341e296dd08a') in 0.064732 seconds
+  Import took 0.079528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_14.psd
+  artifactKey: Guid(ce0fcef454063224cb685cfbbaa0b8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_14.psd using Guid(ce0fcef454063224cb685cfbbaa0b8f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0786e830fdf86a00fc3c47d359f15302') in 0.087373 seconds
+  Import took 0.094970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_11.png
+  artifactKey: Guid(838161bf1449ee849b63571caba956e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_11.png using Guid(838161bf1449ee849b63571caba956e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe0b6c5bcc13500e4326e81a0637a27') in 0.058723 seconds
+  Import took 0.062776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003457 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_13.psd
+  artifactKey: Guid(4b77e05236b9b8941b32543a9560e4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_13.psd using Guid(4b77e05236b9b8941b32543a9560e4b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbea48cea0b39fe7a31c9af50901facf') in 0.083531 seconds
+  Import took 0.086955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_12.psd
+  artifactKey: Guid(e43146d4b1f10034ebd07684aec608e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_12.psd using Guid(e43146d4b1f10034ebd07684aec608e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39b407d5927458a761047cd656c3443') in 0.087466 seconds
+  Import took 0.096881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001698 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_10.png
+  artifactKey: Guid(8be144e9f8d384346aa3ab3eace1cf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_10.png using Guid(8be144e9f8d384346aa3ab3eace1cf47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e7ff6d3a8296c24c7b0b08a3a6815a') in 0.031080 seconds
+  Import took 0.074286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005669 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_8.png
+  artifactKey: Guid(1a89cbc1d86ef3f4f98b82cfaa715ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_8.png using Guid(1a89cbc1d86ef3f4f98b82cfaa715ed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6800dd156220b5c08b4cc82e92078211') in 0.088763 seconds
+  Import took 0.096197 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001984 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Registering precompiled user dll's ...
+Registered in 0.056166 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1612.
+Total: 1.578200 ms (FindLiveObjects: 0.305600 ms CreateObjectMapping: 0.049500 ms MarkObjects: 1.164700 ms  DeleteObjects: 0.057700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.046527 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_6.png
+  artifactKey: Guid(7a0cd6618653a6640b9244d39b8bc2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_6.png using Guid(7a0cd6618653a6640b9244d39b8bc2a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fd31ec9b9acf18abb894e608a79128') in 0.230227 seconds
+  Import took 0.243062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_4.png
+  artifactKey: Guid(931f85b672d6b494da6d70d46a590890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_4.png using Guid(931f85b672d6b494da6d70d46a590890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a18a6a92de6692080774f8be53b100') in 0.122899 seconds
+  Import took 0.126798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_7.png
+  artifactKey: Guid(22c08a55c2a99a74a903c00b23b2b48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_7.png using Guid(22c08a55c2a99a74a903c00b23b2b48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f42b9265110b831c5a5662c44c457866') in 0.086387 seconds
+  Import took 0.089562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_1.png
+  artifactKey: Guid(8a21598daa79a934288b6f73d59f27e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_1.png using Guid(8a21598daa79a934288b6f73d59f27e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ada0ae23906a396fa866b4f811bcddf') in 0.101960 seconds
+  Import took 0.105396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_03.png
+  artifactKey: Guid(975ded198be59ee40a79970c510dcc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_03.png using Guid(975ded198be59ee40a79970c510dcc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2356571b9d0fa5ffe014ee170fe0df3d') in 0.100565 seconds
+  Import took 0.104521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_04.png
+  artifactKey: Guid(ae99675b5e1176749b8550ab5198ed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_04.png using Guid(ae99675b5e1176749b8550ab5198ed01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b628c28c1946c121cb36048f7ce23e') in 0.061213 seconds
+  Import took 0.072421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow4.png
+  artifactKey: Guid(422f8d6a554b51344a8f1a8500446986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow4.png using Guid(422f8d6a554b51344a8f1a8500446986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c44ac25c8950e4472d32d07359b7c9b') in 0.076885 seconds
+  Import took 0.101011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_05.png
+  artifactKey: Guid(d86548474c8e41b4895a63ba25a444e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_05.png using Guid(d86548474c8e41b4895a63ba25a444e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fabd2586de2909c8cb7e8a867cce4002') in 0.117627 seconds
+  Import took 0.122295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001926 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow4.png
+  artifactKey: Guid(422f8d6a554b51344a8f1a8500446986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow4.png using Guid(422f8d6a554b51344a8f1a8500446986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c44ac25c8950e4472d32d07359b7c9b') in 0.021750 seconds
+  Import took 0.028343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001190 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_01.png
+  artifactKey: Guid(06005230849416649859bfc395e3d880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_01.png using Guid(06005230849416649859bfc395e3d880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dafbf841b78254761ccb9ad1dce9060') in 0.110436 seconds
+  Import took 0.123445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003462 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_2.png
+  artifactKey: Guid(5d5621459e6cde54ca0d0fbd51442b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_2.png using Guid(5d5621459e6cde54ca0d0fbd51442b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae8aa8419b407c68d9ef76d7b13b7ab') in 0.163933 seconds
+  Import took 0.177424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow1.png
+  artifactKey: Guid(af731a16700034a449bc16768edac8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow1.png using Guid(af731a16700034a449bc16768edac8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daff2aced0b9757812fdcfe82be57ab2') in 0.128523 seconds
+  Import took 0.165621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/JKT_Art/UI/ICON/app_icon.png
+  artifactKey: Guid(cf2dd08176b863c4ca7f2aa05e121a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/app_icon.png using Guid(cf2dd08176b863c4ca7f2aa05e121a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7032ac2e62d8568bd65a87b576b5ce77') in 0.091425 seconds
+  Import took 0.095899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000867 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow3.png
+  artifactKey: Guid(7304070ac334d0140a8711f1e7bfa2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow3.png using Guid(7304070ac334d0140a8711f1e7bfa2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593fcc70e316a51fc0d441e2f88deb91') in 0.090328 seconds
+  Import took 0.094710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/JKT_Art/UI/ICON/app_icon.png
+  artifactKey: Guid(cf2dd08176b863c4ca7f2aa05e121a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/ICON/app_icon.png using Guid(cf2dd08176b863c4ca7f2aa05e121a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7032ac2e62d8568bd65a87b576b5ce77') in 0.074200 seconds
+  Import took 0.081256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow2.png
+  artifactKey: Guid(a7fd63bc382c4584b84bfd27d862693b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow2.png using Guid(a7fd63bc382c4584b84bfd27d862693b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca454a43484bc720da8bcf953f261d3') in 0.061164 seconds
+  Import took 0.066454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow0.png
+  artifactKey: Guid(90ba72ba9694a144bbf6bc447c29ad43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow0.png using Guid(90ba72ba9694a144bbf6bc447c29ad43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c7bda739c30e50488e73f63f6a5ffe') in 0.085129 seconds
+  Import took 0.094650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_3.png
+  artifactKey: Guid(292eb132371e20e4c967750c3fd1e75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_3.png using Guid(292eb132371e20e4c967750c3fd1e75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a08353e9839aef48830492fe8db7b55') in 0.110053 seconds
+  Import took 0.116445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow0.png
+  artifactKey: Guid(90ba72ba9694a144bbf6bc447c29ad43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow0.png using Guid(90ba72ba9694a144bbf6bc447c29ad43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c7bda739c30e50488e73f63f6a5ffe') in 0.076865 seconds
+  Import took 0.082809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000770 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_06.png
+  artifactKey: Guid(cf99ea2f0d4fe3a4d809e79cf70bc464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_06.png using Guid(cf99ea2f0d4fe3a4d809e79cf70bc464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dcc12d6970fec4682f126fc8ab8ee2') in 0.074642 seconds
+  Import took 0.080115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow6.psd
+  artifactKey: Guid(ec08505bba87dac49b3d9b61eb568e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow6.psd using Guid(ec08505bba87dac49b3d9b61eb568e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92444ca8ddcc73e37a3c21db9dd0f6d4') in 0.076848 seconds
+  Import took 0.082465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/JKT_Art/UI/Arrow/arrow5.psd
+  artifactKey: Guid(f63d0c5b03a7c3749a8f9ae8036802ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/arrow5.psd using Guid(f63d0c5b03a7c3749a8f9ae8036802ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54442c0b2140347cae8642984570a4e5') in 0.035764 seconds
+  Import took 0.042165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012606 seconds.
+  path: Assets/JKT_Art/UI/BG/BG_02.png
+  artifactKey: Guid(d11ae4435fc555644870924c8d24fd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/BG/BG_02.png using Guid(d11ae4435fc555644870924c8d24fd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785768671ab63dad8d68debfcfc79894') in 0.114068 seconds
+  Import took 0.128909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/JKT_Art/UI/Arrow/box_5.png
+  artifactKey: Guid(8ac2f321730d6634594fa8ec4a114e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JKT_Art/UI/Arrow/box_5.png using Guid(8ac2f321730d6634594fa8ec4a114e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9e923faaac79009f414a195c34e5e8') in 0.069452 seconds
+  Import took 0.073966 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002516 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.196 seconds
+Registering precompiled user dll's ...
+Registered in 0.199513 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.030 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 2.339600 ms (FindLiveObjects: 0.487700 ms CreateObjectMapping: 0.090600 ms MarkObjects: 1.446600 ms  DeleteObjects: 0.313400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 624.992220 seconds.
+  path: Assets/Scripts/HudControler.cs
+  artifactKey: Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudControler.cs using Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d061891d94cf32f70116a8e078757c2') in 0.008140 seconds
+  Import took 0.017278 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.004474 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.556 seconds
+Registering precompiled user dll's ...
+Registered in 0.057927 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 2.656700 ms (FindLiveObjects: 0.621600 ms CreateObjectMapping: 0.105900 ms MarkObjects: 1.571300 ms  DeleteObjects: 0.356700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001949 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.305 seconds
+Registering precompiled user dll's ...
+Registered in 0.240873 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.3 MB.
+System memory in use after: 41.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 33.987800 ms (FindLiveObjects: 0.358900 ms CreateObjectMapping: 0.058600 ms MarkObjects: 31.487400 ms  DeleteObjects: 2.080300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.353775 seconds.
+  path: Assets/Scripts/HudControler.cs
+  artifactKey: Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudControler.cs using Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f8b60cceb8f8f04af3556067c6ba66') in 0.013791 seconds
+  Import took 0.017955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 665.052645 seconds.
+  path: Assets/Scripts/HudControler.cs
+  artifactKey: Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudControler.cs using Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fd2a810e14da8e8488a65476e41e89') in 0.003624 seconds
+  Import took 0.008062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002332 seconds.
+  path: Assets/Scripts/HudControler.cs
+  artifactKey: Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudControler.cs using Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fd2a810e14da8e8488a65476e41e89') in 0.010999 seconds
+  Import took 0.024014 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.006622 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 250.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.660 seconds
+Registering precompiled user dll's ...
+Registered in 0.417384 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.035 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 5.062300 ms (FindLiveObjects: 0.355400 ms CreateObjectMapping: 0.056000 ms MarkObjects: 4.347500 ms  DeleteObjects: 0.302100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 257.608840 seconds.
+  path: Assets/Scripts/HudControler.cs
+  artifactKey: Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudControler.cs using Guid(adf41a735bd8a4c4cb270bc77279511f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4277e4a3616586d47a5674d54b8ef46d') in 0.003932 seconds
+  Import took 0.008001 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005539 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.786 seconds
+Registering precompiled user dll's ...
+Registered in 0.056029 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 41.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 2.108500 ms (FindLiveObjects: 0.353400 ms CreateObjectMapping: 0.049100 ms MarkObjects: 1.404500 ms  DeleteObjects: 0.300800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002265 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.377 seconds
+Registering precompiled user dll's ...
+Registered in 0.062275 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.2 MB.
+System memory in use after: 41.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 3.934500 ms (FindLiveObjects: 1.087800 ms CreateObjectMapping: 0.156000 ms MarkObjects: 2.332300 ms  DeleteObjects: 0.356300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 670.173561 seconds.
+  path: Assets/Scripts/HudController.cs
+  artifactKey: Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudController.cs using Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34d0269407bd8d2755ebc0b36faeb5f') in 0.056768 seconds
+  Import took 0.065320 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.002026 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 56.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.104 seconds
+Registering precompiled user dll's ...
+Registered in 0.116760 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.708 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 3.875800 ms (FindLiveObjects: 0.759500 ms CreateObjectMapping: 0.183900 ms MarkObjects: 2.299000 ms  DeleteObjects: 0.632200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003891 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 336.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.867 seconds
+Registering precompiled user dll's ...
+Registered in 0.220043 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.4 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1675.
+Total: 7.968100 ms (FindLiveObjects: 3.603300 ms CreateObjectMapping: 0.380600 ms MarkObjects: 3.308200 ms  DeleteObjects: 0.674100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 357.761831 seconds.
+  path: Assets/Scripts/HudController.cs
+  artifactKey: Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudController.cs using Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6a58b919eecf1466da7a5321e29da6') in 0.014483 seconds
+  Import took 0.052894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007754 seconds.
+  path: Assets/Scripts/HudController.cs
+  artifactKey: Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/HudController.cs using Guid(f891bd9241c540a4c8664508796a4985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6a58b919eecf1466da7a5321e29da6') in 0.003443 seconds
+  Import took 0.018787 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: Z:/Progs/unity/2020.2.0a18/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001923 seconds.
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.445 seconds
+Registering precompiled user dll's ...
+Registered in 0.058849 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\docs\graproj2\Unity3D\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.274 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.2 MB.
+System memory in use after: 41.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 2.466400 ms (FindLiveObjects: 0.347300 ms CreateObjectMapping: 0.250000 ms MarkObjects: 1.536100 ms  DeleteObjects: 0.332500 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
