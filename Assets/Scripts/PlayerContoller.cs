@@ -7,6 +7,7 @@ public class PlayerContoller : MonoBehaviour
     public static int score = 0;
     public static int stars = 0;
     public static int health = 3;
+    public static int gameStatus = 1; //0-stop 1-run 2-?
 
     // Start is called before the first frame update
     void OnTriggerEnter(Collider other)
@@ -40,12 +41,12 @@ public class PlayerContoller : MonoBehaviour
     }
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
