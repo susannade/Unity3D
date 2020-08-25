@@ -52,9 +52,12 @@ public class PauseMenuController : MonoBehaviour
     }
     public void MenuButton()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("StartMenu");
+     //   SceneManager.UnloadSceneAsync("SampleScene");
         Time.timeScale = 1f;
         PlayerContoller.gameStatus = 1;
+        PlayerContoller.health = 3;
+     //   SceneManager.CreateScene("StartMenu");
     }
     public void Exit()
     {

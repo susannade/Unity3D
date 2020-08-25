@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerContoller : MonoBehaviour
 {
@@ -32,6 +33,8 @@ public class PlayerContoller : MonoBehaviour
         if (other.CompareTag("Cat") && stars == 3)
         {
             Debug.Log("You won");
+            SceneManager.LoadScene("FinalScene");
+
         }
         if (other.CompareTag("Cat") && stars != 3)
         {
