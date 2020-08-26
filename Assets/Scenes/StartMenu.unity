@@ -913,11 +913,84 @@ MonoBehaviour:
   m_Direction: 0
   m_MinValue: 0
   m_MaxValue: 10
-  m_WholeNumbers: 0
-  m_Value: 2
+  m_WholeNumbers: 1
+  m_Value: 1.1
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 555133846}
+        m_TargetAssemblyTypeName: StartMenuController, Assembly-CSharp
+        m_MethodName: setVolume
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!1001 &625418666
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603721, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603722, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: sounds.Array.data[2].isLooped
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7110418107290603723, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
+      propertyPath: m_Name
+      value: TheMasterOfTheSound
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dc48c3f092b64814eb3245c8ee7fb0cc, type: 3}
 --- !u!1 &656784116
 GameObject:
   m_ObjectHideFlags: 0

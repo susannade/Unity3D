@@ -17,22 +17,34 @@ public class PlayerContoller : MonoBehaviour
         {
             score++;
             Debug.Log("Score: " + score);
+            FindObjectOfType<AudioController>().Beep("coin");
             other.gameObject.SetActive(false);
         }
         if (other.CompareTag("Star"))
         {
             stars++;
             Debug.Log("Stars: " + stars);
+            FindObjectOfType<AudioController>().Beep("star");
             other.gameObject.SetActive(false);
         }
         if (other.CompareTag("Enemy"))
         {
             health--;
             Debug.Log("Health: " + health);
+            if (health == 0)
+            {
+                FindObjectOfType<AudioController>().Beep("dead");
+            }
+            else
+            {
+                FindObjectOfType<AudioController>().Beep("smash");
+            }
+
         }
         if (other.CompareTag("Cat") && stars == 3)
         {
             Debug.Log("You won");
+            FindObjectOfType<AudioController>().Beep("win");
             SceneManager.LoadScene("FinalScene");
 
         }
