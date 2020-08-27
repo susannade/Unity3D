@@ -16,10 +16,10 @@ public class PauseMenuController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("isworkin");
+
         if (Input.GetKeyDown(KeyCode.M))
         {
-            Debug.Log("pressedpasuelosdkfoskgog");
+
             if (PlayerContoller.gameStatus == 0)
             {
                 ResumeGamePlease();
@@ -53,11 +53,11 @@ public class PauseMenuController : MonoBehaviour
     public void MenuButton()
     {
         SceneManager.LoadScene("StartMenu");
-     //   SceneManager.UnloadSceneAsync("SampleScene");
+
         Time.timeScale = 1f;
         PlayerContoller.gameStatus = 1;
         PlayerContoller.health = 3;
-     //   SceneManager.CreateScene("StartMenu");
+
     }
     public void Exit()
     {
